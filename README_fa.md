@@ -29,7 +29,7 @@
 ```json
 {
   "name": "DevTwitter | توییت برنامه نویسی",
-  "media_domain": "http://dvtw.s3.ir-thr-at1.arvanstorage.ir/",
+  "media_domain": "https://media.dvtw.ir/",
   "messages": [
     // آرایه‌ای از اشیاء پیام
   ]

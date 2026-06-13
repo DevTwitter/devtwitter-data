@@ -30,7 +30,7 @@ The dataset is split into separate JSON files by year (2020–2025). Each file h
 ```json
 {
   "name": "DevTwitter | توییت برنامه نویسی",
-  "media_domain": "http://dvtw.s3.ir-thr-at1.arvanstorage.ir/",
+  "media_domain": "https://media.dvtw.ir/",
   "messages": [
     // Array of message objects
   ]
